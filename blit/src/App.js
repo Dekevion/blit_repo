@@ -7,9 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <NewComponent></NewComponent>
+        {/*<NewComponent></NewComponent>*/}
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Dekevion
         </p>
         <a
           className="App-link"
